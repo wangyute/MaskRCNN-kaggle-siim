@@ -11,7 +11,4 @@ https://www.kaggle.com/abhishek/inference-for-mask-rcnn
 
 https://www.kaggle.com/jesperdramsch/intro-chest-xray-dicom-viz-u-nets-full-data
 
-<<<<<<< HEAD
 
-=======
->>>>>>> a7efd8f4e144dafc5f67d91b243084a624507fe3
